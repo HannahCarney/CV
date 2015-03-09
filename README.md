@@ -12,13 +12,12 @@ A culturally confused American/British citizen living in London. Artist and rece
 - [Baltimore local newspaper](http://www.citypaper.com/bcp-blog-3833-20110701,0,2651809.story)
 - [Announced by pitchfork](http://pitchfork.com/news/46961-festivals-in-brief-barclaycard-wireless-trna-west-fest-farm-fest/)
 - [video](https://vimeo.com/58645020)
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 ### Javascript
 
 - Enjoy working in Node.js and testing with Jasmine and Selenium
 - I even managed to push MongoDB to heroku without paying for the plug in
-** [winning](http://turnuptunein.herokuapp.com/)
+- [winning](http://turnuptunein.herokuapp.com/)
 
 ### Photo-realist
 
