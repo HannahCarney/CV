@@ -1,41 +1,50 @@
-# Your Name
+### Hannah Carney
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A culturally confused American/British citizen living in London. Artist and recent graduate of Makers Academy currently seeking a job as a junior developer in London.
 
 ## Skills
 
-### This Skill
+### Manager/ Team player
 
+- General Manager and host of local music festival Farm Fest
+- Can control thousands of drunk people, and a few musicians (sometimes)
+
+- [Baltimore local newspaper](http://www.citypaper.com/bcp-blog-3833-20110701,0,2651809.story)
+[Announced by pitchfork](http://pitchfork.com/news/46961-festivals-in-brief-barclaycard-wireless-trna-west-fest-farm-fest/)
+[video](https://vimeo.com/58645020)
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+### Javascript
 
-### Another Skill
+Enjoy working in Node.js and testing with Jasmine and Selenium
+I even managed to push MongoDB to heroku without paying for the plug in
+[winning](http://turnuptunein.herokuapp.com/)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Photo-realist
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Basically really good at copying things
+I'm observant and render technical, realistic drawings.
+
+- [instagram](https://instagram.com/hannahlourealism/)
 
 ## Education
 
 ### Makers Academy - START to FINISH
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular,js
-- Rspec, Jasmine, Mocha
+- OOP, TDD, SOLID, MVC, DDD, BDD
+- Agile development
+Ruby, Rails, Sinatra, Javascript, Node.js
+datamapper, MySQL, postgreSQL, MongoDB
+- Rspec, Jasmine, Mocha, Chai, Selenium, Cucumber, Capybara
+- Cordova app development
 
-### Your University - START to FINISH
+### Johns Hopkins - 2008 - 2012
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- History of Art and Entrepreneurship and Management
+3.3 GPA
 
-### Any other qualifications
+### Baltimore School for the Arts 2004 – 2008
+
+Visual Arts Major
+National Honors Society
+
