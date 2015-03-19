@@ -12,16 +12,16 @@ A culturally confused American/British citizen living in London. Artist and rece
 - [Announced by pitchfork](http://pitchfork.com/news/46961-festivals-in-brief-barclaycard-wireless-trna-west-fest-farm-fest/)
 - [video](https://vimeo.com/58645020)
 
-### Javascript
+### Adaptable
 
-- Enjoy working in Node.js and testing with Jasmine and Selenium
-- I even managed to push MongoDB to heroku without paying for the plug in
-- [winning](http://turnuptunein.herokuapp.com/)
+- Not afraid of going out of comfort zone and learning new things
+- Can work in rain (England) or shine (Egypt)
+- [article](http://krieger.jhu.edu/magazine/v10n1/unearthed/)
 
 ### Observant
 
 - Photorealist - Basically really good at copying things
-- I'm observant and render technical, realistic drawings.
+- I render technical, realistic drawings.
 - [instagram](https://instagram.com/hannahlourealism/)
 
 ## Education
@@ -48,6 +48,6 @@ A culturally confused American/British citizen living in London. Artist and rece
 
 ### Experience
 
-Advertising and Multimedia Dept Co-Manager - January 2011 – November 2011
-Industrial Engineer - October 2012 – April 2013
-Archeologist  (Temple of Mut, Luxor Egypt) - June 2012 – September 2012
+- Advertising and Multimedia Dept Co-Manager (January 2011 – November 2011)
+- Industrial Engineer (October 2012 – April 2013)
+- Archeologist, Temple of Mut, Luxor Egypt (June 2012 – September 2012)
