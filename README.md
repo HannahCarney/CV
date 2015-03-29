@@ -4,7 +4,7 @@ Born in London, I started coding at the age of 7 on a website called Neopets. Th
 
 ## Skills
 
-### Can control thousands of drunk people (Farm Fest)
+### Can control thousands of drunk people
 
 I started Farm Fest when I was 16. It was a 6 year running festival that eventually outgrew my parents' property (and patience). We made up to $40,000 a year in profit.
 
@@ -14,7 +14,7 @@ I started Farm Fest when I was 16. It was a 6 year running festival that eventua
 - [Announced by pitchfork alongside barclaycard-wireless](http://pitchfork.com/news/46961-festivals-in-brief-barclaycard-wireless-trna-west-fest-farm-fest/)
 - [Video made by an attendee](https://vimeo.com/58645020)
 
-### Curious, with a hunger for discovery
+### Tomb-raider
 
 I was part of a team that discovered the first known burial site within a Temple precinct in Egypt.
 
@@ -32,6 +32,12 @@ I went to the same art school as Tupac, who is still alive by the way, and studi
 - Basically really good at copying things
 - [the proof](https://instagram.com/hannahlourealism/)
 - Eventually I want to build my own website for my artistic endeavors
+
+### 3D Designer
+
+I scanned and rendered the lizards for the Darren Aronofsky film Noah. I also did the ice sculptures for the Sochi 2014 Winter Olympics. Alas, most of the time was spent reverse-engineering machine parts.
+
+- [Direct Dimensions](http://www.dirdim.com/)
 
 ## Education
 
