@@ -49,6 +49,7 @@ I scanned and rendered the lizards for the Darren Aronofsky film Noah. I also di
 - Databases: Datamapper, MySQL, postgreSQL, MongoDB, MongoLabs
 - Testing: Rspec, Jasmine, Mocha, Chai, Selenium, Cucumber, Capybara
 - Single Page Apps: Ajax, Websockets
+- Front End Development: HTML, CSS, Angular, Mustache, Handlebars
 - Games: Phaser game engine, Websockets
 - App development: Cordova, PhoneGap
 
