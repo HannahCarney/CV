@@ -59,7 +59,7 @@ I scanned and rendered the lizards for the Darren Aronofsky film Noah. I also di
 - Single Page Apps: Ajax, Websockets
 - Front End Development: HTML, CSS, Angular, Mustache, Handlebars
 - Games: Phaser game engine, Websockets
-- App development: Cordova, PhoneGap
+- App development: (Cross-platform) Cordova, PhoneGap, (iOS development) Objective-C, XCode
 
 ### Johns Hopkins - 2008 - 2012
 
